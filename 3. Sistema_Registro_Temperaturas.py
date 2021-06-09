@@ -5,8 +5,7 @@ Created on Sat May 15 10:01:37 2021
 @author: Adry Diaz
 """
 
-#El programa de Ingeniería ambiental de la Universidad El Bosque en una de sus salidas de 
-#campo, ha registrado un par de temperaturas diarias (máxima, mínima) para todos los días que 
+#En una de sus salidas de campo, ha registrado un par de temperaturas diarias (máxima, mínima) para todos los días que 
 #permanecieron en campo. Dadas las condiciones del terreno donde se encontraban, no era 
 #posible tener temperaturas menores de 5 grados ni mayores de 35 grados, que se consideraron 
 #errores, pero igual se registraron para su estudio posterior. La pareja de temperaturas (0,0) 
@@ -15,8 +14,6 @@ Created on Sat May 15 10:01:37 2021
 import sys
             
 print ("=======================================")
-print ("=========UNIVERSIDAD EL BOSQUE=========")
-print ("===FACULTAD DE INGENIERIA AMBIENTAL====")
 print ("==SISTEMA DE REGISTRO DE TEMPERATURAS==")
 print ("============SALIDA DE CAMPO============")
 print ("=======================================")
