@@ -5,7 +5,7 @@ Created on Sat May 22 13:04:25 2021
 @author: Adry Diaz
 """
 """
-El departamento de Talento Humano de la Universidad El Bosque, a raíz de la participación en 
+El departamento de Talento Humano, a raíz de la participación en 
 un proyecto muy especial, requiere poder procesar la nómina de docentes contratados por 
 horas. Para tal efecto ha establecido los siguientes lineamientos:
     - La nómina será procesada semanalmente, digitando por cada docente las horas 
