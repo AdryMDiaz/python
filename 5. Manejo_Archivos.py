@@ -6,8 +6,7 @@ Created on Sun May 30 17:38:19 2021
 """
 import sys
 
-"""El director del Programa de Ingeniería de Sistemas de la Universidad El Bosque, a raíz de la 
-participación en un proyecto muy especial con el MinTic, requiere poder generar una agenda 
+"""El director del Programa requiere poder generar una agenda 
 con los datos de nombre y apellido, número de cédula y el número celular de todos los 
 beneficiarios del proyecto, para poder hacerles algún seguimiento en su proceso de formación. 
 Dicha agenda deberá ser almacenada en un archivo de texto en el directorio activo con el 
